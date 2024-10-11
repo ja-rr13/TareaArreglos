@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\clase4\clase4\obj\Debug\clase4.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\clase4\clase4\obj\Debug\clase4.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\clase4\clase4\bin\Debug\clase4.exe.config
+C:\Users\Home\source\repos\clase4\clase4\bin\Debug\clase4.exe
+C:\Users\Home\source\repos\clase4\clase4\bin\Debug\clase4.pdb
+C:\Users\Home\source\repos\clase4\clase4\obj\Debug\clase4.exe
+C:\Users\Home\source\repos\clase4\clase4\obj\Debug\clase4.pdb
